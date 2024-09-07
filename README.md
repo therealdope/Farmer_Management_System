@@ -1,4 +1,4 @@
-# Farmer Management System (WRMS)
+# Farmer Management System (FRMS)
 
 ## Overview
 The Farmer Management System (WRMS) is designed to efficiently manage warehouse operations by tracking owners, godowns (warehouses), employees, farmers, products, and bookings. The system ensures smooth workflow for booking products, managing inventory, and tracking ownership of godowns and products.
@@ -49,4 +49,10 @@ The Farmer Management System (WRMS) is designed to efficiently manage warehouse 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/therealdope/Farmer_Management_System/edit/main/README.md)
+2. Install required dependencies (if applicable).
+
+## Usage
+1. Set up the database using the provided schema.
+2. Start the server or application.
+3. Interact with the WRMS via the user interface or database queries.
